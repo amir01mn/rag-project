@@ -201,9 +201,5 @@ This currently serves as a placeholder entry point (prints a greeting). You can 
 - **Researchers and tinkerers** exploring different document types, chunking strategies, and LLMs.
 - **Developers** who want a minimal, extensible skeleton to build a more complete RAG application.
 
----
 
-### License
-
-Add your preferred license here (e.g. MIT, Apache 2.0) and include a `LICENSE` file in the repository.
 
